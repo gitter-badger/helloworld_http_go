@@ -1,4 +1,4 @@
 hello_world_http_go
 ===================
 
-A helloworld in http with go
+Um olá mundo através do protocolo http com go language
